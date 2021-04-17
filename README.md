@@ -4,4 +4,5 @@ This folder contains the full code used to produce the Voronoi diagrams featured
 If you want to learn to draw Voronoi diagrams by hand, check out this brilliant guide and video:
 
 https://www.instructables.com/Hand-Drawn-Voronoi-Diagrams/
+
 https://www.youtube.com/watch?v=bmaUtG4CbOs
