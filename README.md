@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=bmaUtG4CbOs
 For interactive Voronoi fun, check out Alex Beutel’s interactive Voronoi diagram generator:
 
 http://alexbeutel.com/webgl/voronoi.html
+
+If you're interested in the link between cholera and Voronoi diagrams we discuss in our video, you can find out more on Plus Maths:
+
+https://plus.maths.org/content/uncovering-cause-cholera
